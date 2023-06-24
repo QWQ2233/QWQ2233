@@ -1,0 +1,66 @@
+
+.box1{
+ font-weight:bolder;
+ }
+
+.boxl {
+	                line-height: 300px;
+	                height: 550px;
+                    text-align: center;
+                     font-family: Verdana;
+                     font-size: 140px;
+                     font-weight: bold;
+                     color: white;
+                }
+                
+                .w_space-item {
+                     text-shadow: #000 10px 0 0, #000 0 10px 0, #000 -1px 0 0, #000 0 -1px 0;
+                }
+/*大标题*/
+
+
+ .back-top{
+            position: sticky;
+            top: 50px;
+            height: 10px;
+            float: right;
+            right: 50px;
+	        opacity: 0.9
+        }
+        .back-top>a{
+            display: block;
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 20px;
+            line-height: 30px;
+            border-radius: 50px;
+            background: #C3C3C3;
+			color: black;
+        }
+/*回到顶部*/
+
+
+.jieshao{
+	   line-height: 90px;
+	                height: 100px;
+                    text-align: center;
+                     font-family: Verdana;
+                     font-size: 21px;
+                     font-weight: normal;
+                     color: white;
+}
+/*角色介绍*/
+
+
+.dy {
+	                line-height: 150px;
+	                height: 275px;
+                    text-align: center;
+                     font-family: Verdana;
+                     font-size: 70px;
+                     font-weight: bold;
+                     color: white;
+                }
+                
